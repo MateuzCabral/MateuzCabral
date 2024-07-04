@@ -17,25 +17,25 @@
 
 <div align="left">
   <img src="https://cdn.simpleicons.org/nodedotjs/339933" height="30" alt="nodejs logo"  />
-  <img width="12" />
+  <img width="10" />
   <img src="https://cdn.simpleicons.org/nestjs/E0234E" height="30" alt="nestjs logo"  />
-  <img width="12" />
+  <img width="10" />
   <img src="https://cdn.simpleicons.org/typescript/3178C6" height="30" alt="typescript logo"  />
-  <img width="12" />
+  <img width="10" />
   <img src="https://cdn.simpleicons.org/javascript/F7DF1E" height="30" alt="javascript logo"  />
-  <img width="12" />
+  <img width="10" />
   <img src="https://cdn.simpleicons.org/express/000000" height="30" alt="express logo"  />
-  <img width="12" />
+  <img width="10" />
   <img src="https://cdn.simpleicons.org/postgresql/4169E1" height="30" alt="postgresql logo"  />
-  <img width="12" />
+  <img width="10" />
   <img src="https://cdn.simpleicons.org/prisma/2D3748" height="30" alt="prisma logo"  />
-  <img width="12" />
+  <img width="10" />
   <img src="https://cdn.simpleicons.org/docker/2496ED" height="30" alt="docker logo"  />
-  <img width="12" />
+  <img width="10" />
   <img src="https://cdn.simpleicons.org/react/61DAFB" height="30" alt="react logo"  />
-  <img width="12" />
+  <img width="10" />
   <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="30" alt="tailwindcss logo"  />
-  <img width="12" />
+  <img width="10" />
   <img src="https://cdn.simpleicons.org/git/F05032" height="30" alt="git logo"  />
 
 </div>
