@@ -1,7 +1,7 @@
 # Olá, seja bem-vindo ao meu perfil do GitHub 👋
 
 <div algin="center">
-    <img src="https://www.iiserkol.ac.in/~cds/assets/image/intro_to_comp_programming.jpg"  />
+    <img src="https://www.iiserkol.ac.in/~cds/assets/image/intro_to_comp_programming.jpg" width="500" />
 </div>
 
 <!-- ## 🌐 Redes Socials:
