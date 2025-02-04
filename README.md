@@ -1,4 +1,4 @@
-<p align="center"><img src="https://media.tenor.com/VvgEud3FBhcAAAAC/terminal-lockout-hack.gif" width="100%" height="auto"/></p>
+<p align="center"><img src="https://media1.tenor.com/m/VvgEud3FBhcAAAAC/terminal-lockout-hack.gif" width="100%" height="auto"/></p>
 
 <div align="center">
   <a href="https://git.io/typing-svg">
@@ -53,7 +53,6 @@ Estou sempre em busca de novos desafios e aprendizados, seja em plataformas de C
       <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&color=000000" alt="JavaScript" />
       <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&color=000000" alt="Kali Linux" />
       <img src="https://img.shields.io/badge/VirtualBox-1C1C1C?style=for-the-badge&logo=virtualbox&color=000000" alt="VirtualBox" />
-      
   </div>
 </div>
 
