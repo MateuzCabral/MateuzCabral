@@ -1,51 +1,77 @@
-# Olá, seja bem-vindo ao meu perfil do GitHub 👋
+<p align="center"><img src="https://media.tenor.com/VvgEud3FBhcAAAAC/terminal-lockout-hack.gif" width="100%" height="auto"/></p>
 
-<div algin="center">
-    <img src="https://www.iiserkol.ac.in/~cds/assets/image/intro_to_comp_programming.jpg"/>
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=A00606&width=435&lines=On+journey+to+become+a+great+Hacker" alt="Typing SVG" />
+  </a>
 </div>
 
-<!-- ## 🌐 Redes Socials:
+<h1 align="left">
+  Olá, seja bem-vindo ao meu perfil do GitHub!
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"/>
+</h1>
 
-<div align="left">
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+Sou um entusiasta de cibersegurança, com foco em testes de penetração e automação de segurança.
+
+Atualmente, estou desenvolvendo ferramentas e scripts em Python e Shell Script para realizar testes de segurança e identificar falhas em sistemas e aplicações. Tenho um grande interesse em entender as técnicas de hacking ético e como aplicar esse conhecimento para melhorar a segurança.
+
+Estou sempre em busca de novos desafios e aprendizados, seja em plataformas de CTF, seja no desenvolvimento de novas ferramentas e scripts para a comunidade.
+</strong>
+<br>
+
+<h2 id="status_atual">📚 Oque estudo atualmente?</h2>
+<br>
+<div style="margin-bottom: 40px;">
+
+<strong>
+
+👉 Testes de Penetração em aplicações Web, APIs e Infraestrutura.
+
+👉 Automação de análise de vulnerabilidades com Python e Shell Script.
+
+👉 Estudo de Ferramentas: Burp Suite, Nmap, Metasploit, Sqlmap, etc.
+
+👉 Estudos sobre técnicas de evasão e exploração de sistemas.
+
+</strong>
 </div>
 
-<br> -->
-
-## 💻 Tecnologias que uso:
-
-<div align="left">
-  <img src="https://cdn.simpleicons.org/nodedotjs/339933" height="30" alt="nodejs logo"  />
-  <img width="10" />
-  <img src="https://cdn.simpleicons.org/nestjs/E0234E" height="30" alt="nestjs logo"  />
-  <img width="10" />
-  <img src="https://cdn.simpleicons.org/typescript/3178C6" height="30" alt="typescript logo"  />
-  <img width="10" />
-  <img src="https://cdn.simpleicons.org/javascript/F7DF1E" height="30" alt="javascript logo"  />
-  <img width="10" />
-  <img src="https://cdn.simpleicons.org/express/000000" height="30" alt="express logo"  />
-  <img width="10" />
-  <img src="https://cdn.simpleicons.org/postgresql/4169E1" height="30" alt="postgresql logo"  />
-  <img width="10" />
-  <img src="https://cdn.simpleicons.org/prisma/2D3748" height="30" alt="prisma logo"  />
-  <img width="10" />
-  <img src="https://cdn.simpleicons.org/docker/2496ED" height="30" alt="docker logo"  />
-  <img width="10" />
-  <img src="https://cdn.simpleicons.org/react/61DAFB" height="30" alt="react logo"  />
-  <img width="10" />
-  <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="30" alt="tailwindcss logo"  />
-  <img width="10" />
-  <img src="https://cdn.simpleicons.org/git/F05032" height="30" alt="git logo"  />
-
-</div>
+<h2 id="tecnologias">⚙️ Tecnologias e Ferramentas </h2>
 
 <br>
 
-## 📊 Minhas contribuições:
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MateuzCabral&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=midnight-purple&locale=en&hide_border=false" height="150"  alt="stats graph"  />
-  <img src="https://streak-stats.demolab.com?user=MateuzCabral&locale=pt-br&mode=daily&theme=midnight-purple&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MateuzCabral&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=midnight-purple&hide_border=false" height="150" alt="languages graph"  />
+<div style="border: 2px solid #A00606; border-radius: 10px; padding: 20px; margin-bottom: 20px;">
+  <div align="left" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
+      <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burp-suite&color=000000" alt="Burp Suite" />
+      <img src="https://img.shields.io/badge/Metasploit-008C8C?style=for-the-badge&logo=metasploit&color=000000" alt="Metasploit" />
+      <img src="https://img.shields.io/badge/Wireshark-009639?style=for-the-badge&logo=wireshark&color=000000" alt="Wireshark" />
+      <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&color=000000" alt="Bash" />
+      <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&color=000000" alt="Python" />
+      <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&color=000000" alt="Linux" />
+      <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&color=000000" alt="Git" />
+      <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&color=000000" alt="Docker" />
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&color=000000" alt="JavaScript" />
+      <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&color=000000" alt="Kali Linux" />
+      <img src="https://img.shields.io/badge/VirtualBox-1C1C1C?style=for-the-badge&logo=virtualbox&color=000000" alt="VirtualBox" />
+      
+  </div>
 </div>
+
+
+
+<h2 id="status_github" align=''>Status Github 👨‍💻</h2>
+ 
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mateuzcabral&theme=apprentice&show_icons=true)
+  
+  [![GitHub Streak](https://streak-stats.demolab.com?user=MateuzCabral&theme=apprentice)](https://git.io/streak-stats)
+
+
+<br>
+
+<p align="center">
+  <b><i>"Every lock has a key, every system has a weakness."</i></b>
+</p>
+
+<p align="center">
+<a>🔐🌍</a>
+</p>
