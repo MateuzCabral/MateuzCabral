@@ -62,7 +62,7 @@ Estou sempre em busca de novos desafios e aprendizados, seja em plataformas de C
  
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mateuzcabral&theme=apprentice&show_icons=true)
   
-  [![GitHub Streak](https://streak-stats.demolab.com?user=MateuzCabral&theme=apprentice)](https://git.io/streak-stats)
+  [![GitHub Streak](https://streak-stats.demolab.com?user=mateuzcabral&theme=apprentice)](https://git.io/streak-stats)
 
 
 <br>
