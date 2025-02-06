@@ -56,19 +56,6 @@ Estou sempre explorando novas abordagens, seja em ambientes de CTF, seja na cria
   </div>
 </div>
 
-<h2> 🎓 Cursos e Badges </h2>
-<div style="border: 1px solid #A00606; border-radius: 10px; padding: 20px; margin-bottom: 20px;">
-
-| Badge | Descrição |
-|--------------------------------------|---------------------------------------------------------------------------|
-| <img src="https://images.credly.com/size/680x680/images/af8c6b4e-fc31-47c4-8dcb-eb7a2065dc5b/I2CS__1_.png" width="100"/> | [Introduction to Cybersecurity](https://www.credly.com/badges/1ba34e5b-d92a-497d-8715-23d7efe54de7/public_url) |
-| <img src="https://images.credly.com/size/680x680/images/5bdd6a39-3e03-4444-9510-ecff80c9ce79/image.png" width="100"/> | [Networking Basics](https://www.credly.com/badges/1fad0fe3-5607-477a-9ea0-78dbb8ccf022/public_url) |
-| <img src="https://images.credly.com/size/680x680/images/50b96632-6cbb-40b7-ac0e-b83f49ff7f94/image.png" width="100"/> | [Cybersecurity Fundamentals](https://www.credly.com/badges/4d807c1a-b7f1-410b-8366-3a732c0f7e71/public_url) |
-| <img src="https://images.credly.com/size/680x680/images/0ca5f542-fb5e-4a22-9b7a-c1a1ce4c3db7/EndpointSecurity.png" width="100"/> | [Endpoint Security](https://www.credly.com/badges/a03c7cf1-0491-4f31-b05b-0dbd0a7e969b/public_url) |
-| <img src="https://images.credly.com/size/680x680/images/5d5ac32b-d239-42b8-9665-8a921dc3ab47/image.png" width="100"/> | [Cyber Threat Management](https://www.credly.com/badges/1f59a301-d11d-4df6-a961-44d63a89bacd/public_url) |
-
-
-
 <h2 id="status_github" align=''>Status Github 👨‍💻</h2>
  
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mateuzcabral&theme=github_dark&show_icons=true)
