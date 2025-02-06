@@ -13,9 +13,9 @@
 
 Sou um entusiasta de cibersegurança, com foco em testes de penetração e automação de segurança.
 
-Atualmente, estou desenvolvendo ferramentas e scripts em Python e Shell Script para realizar testes de segurança e identificar falhas em sistemas e aplicações. Tenho um grande interesse em entender as técnicas de hacking ético e como aplicar esse conhecimento para melhorar a segurança.
+Desenvolvo ferramentas e scripts em Python e Shell Script para realizar testes de segurança e identificar falhas em sistemas e aplicações. Tenho profundo interesse em técnicas de hacking ético e como aplicar esse conhecimento para melhorar a segurança.
 
-Estou sempre em busca de novos desafios e aprendizados, seja em plataformas de CTF, seja no desenvolvimento de novas ferramentas e scripts para a comunidade.
+Estou sempre explorando novas abordagens, seja em ambientes de CTF, seja na criação de soluções que ampliam a eficiência dos testes de segurança.
 </strong>
 <br>
 
