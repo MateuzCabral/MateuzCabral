@@ -13,7 +13,7 @@
   <img src="https://nirzak-streak-stats.vercel.app/?user=mateuzcabral&theme=dark&hide_border=false" width="51%">
 </div>
 <br>
-<img src="https://tryhackme-badges.s3.amazonaws.com/0xM4XOR.png" alt="TryHackMe Badge" />
+<img src="https://tryhackme-badges.s3.amazonaws.com/0xM4XOR.png" alt="TryHackme" />
 </div>
 
 ---
