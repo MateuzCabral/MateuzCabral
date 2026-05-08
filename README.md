@@ -3,7 +3,7 @@
 ![alt](image-1.jpg)
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=IM+Fell+English+SC&size=28&pause=2000&color=4A7AB5&center=true&vCenter=true&width=700&lines=Hunter of Vulnerabilities.;Fear the unpatched code.;May the exploit guide thee.;" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=IM+Fell+English+SC&size=28&pause=2000&color=4A7AB5&center=true&vCenter=true&width=700&lines=Hunter+of+Vulnerabilities.;Fear+the+unpatched+code.;May+the+exploit+guide+thee.+;" alt="Typing SVG"/>
 </div>
 
 <br/>
