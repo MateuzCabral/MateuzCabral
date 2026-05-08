@@ -19,7 +19,7 @@
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=MateuzCabral&style=flat-square&color=1B3A6B&label=HUNTERS+WHO+PASSED+HERE)
+![Profile Views](https://visitor-badge.laobi.icu/badge?page_id=MateuzCabral.MateuzCabral&left_color=1B3A6B&right_color=0a0c10&left_text=HUNTERS+WHO+PASSED+HERE)
 
 </div>
 
