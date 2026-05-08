@@ -1,46 +1,143 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=696969&height=120&section=header"/>
+<!-- BANNER -->
+
+![alt](image-1.jpg)
 
 <div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=BABABA&width=435&lines=On+journey+to+become+a+great+Hacker" alt="Typing SVG" />
-  </a>
+  <img src="https://readme-typing-svg.demolab.com?font=IM+Fell+English+SC&size=28&pause=2000&color=4A7AB5&center=true&vCenter=true&width=700&lines=Hunter of Vulnerabilities.;Fear the unpatched code.;May the exploit guide thee.;" alt="Typing SVG"/>
+</div>
+
+<br/>
+
+<!-- CONTACT -->
+<div align="center">
+
+[![TryHackMe](https://img.shields.io/badge/TRYHACKME-0a0c10?style=flat-square&logo=tryhackme&logoColor=4A7AB5)](https://tryhackme.com/p/Ph0BoS)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0a0c10?style=flat-square&logo=linkedin&logoColor=4A7AB5)](https://linkedin.com/in/mateus-cabral-3a04b4287)
+[![HackTheBox](https://img.shields.io/badge/HACKTHEBOX-0a0c10?style=flat-square&logo=hackthebox&logoColor=4A7AB5)](https://app.hackthebox.com/profile/Ph0BoS)
+
 </div>
 
 <div align="center">
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mateuzcabral&theme=dark&hide_border=false&include_all_commits=true&count_private=true" width="48%">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=mateuzcabral&theme=dark&hide_border=false" width="51%">
-</div>
-<br>
-<img src="https://tryhackme-badges.s3.amazonaws.com/0xM4XOR.png" alt="TryHackme" />
+![Profile Views](https://komarev.com/ghpvc/?username=MateuzCabral&style=flat-square&color=1B3A6B&label=HUNTERS+WHO+PASSED+HERE)
+
 </div>
 
 ---
 
-<h3 align="center">🛠️ Tools & Technologies</h3>
-<p align="center">
-  <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burp-suite&color=000000" alt="Burp Suite" />
-  <img src="https://img.shields.io/badge/Metasploit-008C8C?style=for-the-badge&logo=metasploit&color=000000" alt="Metasploit" />
-  <img src="https://img.shields.io/badge/Wireshark-009639?style=for-the-badge&logo=wireshark&color=000000" alt="Wireshark" />
-  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&color=000000" alt="Bash" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&color=000000" alt="Python" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&color=000000" alt="Linux" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&color=000000" alt="Git" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&color=000000" alt="Docker" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&color=000000" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&color=000000" alt="Kali Linux" />
-  <img src="https://img.shields.io/badge/VirtualBox-1C1C1C?style=for-the-badge&logo=virtualbox&color=000000" alt="VirtualBox" />
-</p>
+> *"The firewalls fade, and the lords of the domain go without patching. Only embers of access remain."*
+> *— Someone must extinguish thy defenses.*
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=696969&height=120&section=footer"/>
+---
 
 <br>
 
-<p align="center">
-  <b><i>"Every lock has a key, every system has a weakness."</i></b>
-</p>
+<div align="center">
 
-<p align="center">
-<a>🔐🌍</a>
-</p>
+**`Penetration Tester · Red Team · Offensive Security`**
+
+</div>
+
+<br>
+
+Caçador de vulnerabilidades com foco em **testes de invasão, red team operations e offensive security**. Constantemente afiando meu arsenal, onde cada exploração bem-sucedida concede um novo Insight para a caçada.
+
+Trabalho ativamente com enumeração, exploração, escalada de privilégios e evasão de defesas. Do acesso inicial à documentação do relatório de pentest.
+
+<br>
+
+## ⚔️ Arsenal — Tools
+
+<div align="center">
+
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-0a0c10?style=for-the-badge&logo=kalilinux&logoColor=4A7AB5)
+![Nmap](https://img.shields.io/badge/Nmap-0a0c10?style=for-the-badge&logo=cplusplus&logoColor=4A7AB5)
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-0a0c10?style=for-the-badge&logo=burpsuite&logoColor=4A7AB5)
+![Metasploit](https://img.shields.io/badge/Metasploit-0a0c10?style=for-the-badge&logo=metasploit&logoColor=4A7AB5)
+![Nuclei](https://img.shields.io/badge/Nuclei-0a0c10?style=for-the-badge&logo=go&logoColor=4A7AB5)
+![Hydra](https://img.shields.io/badge/Hydra-0a0c10?style=for-the-badge&logo=linux&logoColor=4A7AB5)
+![Wireshark](https://img.shields.io/badge/Wireshark-0a0c10?style=for-the-badge&logo=wireshark&logoColor=4A7AB5)
+![Hashcat](https://img.shields.io/badge/Hashcat-0a0c10?style=for-the-badge&logo=hashcat&logoColor=4A7AB5)
+![John the Ripper](https://img.shields.io/badge/John_the_Ripper-0a0c10?style=for-the-badge&logo=gnuprivacyguard&logoColor=900000)
+![SQLMap](https://img.shields.io/badge/SQLMap-0a0c10?style=for-the-badge&logo=sqlite&logoColor=4A7AB5)
+![Netexec](https://img.shields.io/badge/Netexec-0a0c10?style=for-the-badge&logo=python&logoColor=4A7AB5)
+![Gobuster](https://img.shields.io/badge/Gobuster-0a0c10?style=for-the-badge&logo=gnu&logoColor=4A7AB5)
+![Ffuf](https://img.shields.io/badge/Ffuf-0a0c10?style=for-the-badge&logo=go&logoColor=4A7AB5)
+![Impacket](https://img.shields.io/badge/Impacket-0a0c10?style=for-the-badge&logo=python&logoColor=4A7AB5)
+![Ligolo-ng](https://img.shields.io/badge/Ligolo--ng-0a0c10?style=for-the-badge&logo=go&logoColor=4A7AB5)
+![PEASS](https://img.shields.io/badge/PEASS--ng-0a0c10?style=for-the-badge&logo=linux&logoColor=4A7AB5)
+</div>
+
+
+<br>
+
+## 🩸 Languages & Tech
+
+<div align="center">
+
+![Python](https://img.shields.io/badge/Python-0a0c10?style=for-the-badge&logo=python&logoColor=4A7AB5)
+![Bash](https://img.shields.io/badge/Bash-0a0c10?style=for-the-badge&logo=gnubash&logoColor=4A7AB5)
+![PowerShell](https://img.shields.io/badge/PowerShell-0a0c10?style=for-the-badge&logo=powershell&logoColor=4A7AB5)
+![C](https://img.shields.io/badge/C-0a0c10?style=for-the-badge&logo=c&logoColor=4A7AB5)
+![JavaScript](https://img.shields.io/badge/JavaScript-0a0c10?style=for-the-badge&logo=javascript&logoColor=4A7AB5)
+![SQL](https://img.shields.io/badge/SQL-0a0c10?style=for-the-badge&logo=postgresql&logoColor=4A7AB5)
+![HTML5](https://img.shields.io/badge/HTML5-0a0c10?style=for-the-badge&logo=html5&logoColor=4A7AB5)
+![Git](https://img.shields.io/badge/Git-0a0c10?style=for-the-badge&logo=git&logoColor=4A7AB5)
+![Linux](https://img.shields.io/badge/Linux-0a0c10?style=for-the-badge&logo=linux&logoColor=4A7AB5)
+![Windows](https://img.shields.io/badge/Windows-0a0c10?style=for-the-badge&logo=windows&logoColor=4A7AB5)
+![Docker](https://img.shields.io/badge/Docker-0a0c10?style=for-the-badge&logo=docker&logoColor=4A7AB5)
+</div>
+
+<br>
+
+## 🕯️ Certifications and Training
+
+| | Course / Certification | Status |
+|:---:|:---|:---:|
+| ◈ | DCPT — Desec Certified Penetration Tester | 🔄 In Progress |
+| ◈ | Pentest Experience V2 - Desec Security | ✅ Complete |
+| ◈ | Novo Pentest Profissional - Desec Security | ✅ Complete |
+| ◈ | Ethical Hacker - Cisco Networking Academy | ✅ Complete |
+| ◈ | Endpoint Security- Cisco Networking Academy | ✅ Complete |
+| ◈ | Cybersecurity - FIAP | ✅ Complete |
+| ◈ | Cybersecurity Fundamentals - IBM | ✅ Complete |
+
+
+<br>
+
+## 🗡️ TryHackMe Stats
+
+<div align="center">
+
+<img src="image.png"/>
+</div>
+
+<br>
+
+## 📊 Statistics
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=MateuzCabral&theme=dark&ring=1B3A6B&fire=900000&currStreakLabel=4A7AB5&background=0a0c10&border=1a2a3a&stroke=1a2a3a&dates=6688aa&sideLabels=4A7AB5" alt="streak"/>
+
+
+</div>
+
+<br>
+
+
+## 📜 Contribution Graph
+
+<div align="center">
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=MateuzCabral&bg_color=0a0c10&color=4A7AB5&line=1B3A6B&point=900000&area=true&area_color=0d1a2e&hide_border=false&border_color=1a2a3a&title_color=4A7AB5)](https://github.com/MateuzCabral)
+
+</div>
+
+<br>
+
+<div align="center">
+
+*† The night is long, and the Hunt does not end. Seek the root beyond the veil. †*
+
+</div>
