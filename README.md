@@ -64,8 +64,8 @@ Trabalho ativamente com enumeração, exploração, escalada de privilégios e e
 ![Gobuster](https://img.shields.io/badge/Gobuster-0a0c10?style=for-the-badge&logo=gnu&logoColor=900000)
 ![Ffuf](https://img.shields.io/badge/Ffuf-0a0c10?style=for-the-badge&logo=go&logoColor=4A7AB5)
 ![Impacket](https://img.shields.io/badge/Impacket-0a0c10?style=for-the-badge&logo=python&logoColor=4A7AB5)
-![Ligolo-ng](https://img.shields.io/badge/Ligolo--ng-0a0c10?style=for-the-badge&logo=go&logoColor=4A7AB5)
-![PEASS](https://img.shields.io/badge/PEASS--ng-0a0c10?style=for-the-badge&logo=linux&logoColor=4A7AB5)
+![Ligolo-ng](https://img.shields.io/badge/Ligolo--ng-0a0c10?style=for-the-badge&logo=go&logoColor=900000)
+![PEASS](https://img.shields.io/badge/PEASS--ng-0a0c10?style=for-the-badge&logo=linux&logoColor=900000)
 </div>
 
 
@@ -76,13 +76,13 @@ Trabalho ativamente com enumeração, exploração, escalada de privilégios e e
 <div align="center">
 
 ![Python](https://img.shields.io/badge/Python-0a0c10?style=for-the-badge&logo=python&logoColor=4A7AB5)
-![Bash](https://img.shields.io/badge/Bash-0a0c10?style=for-the-badge&logo=gnubash&logoColor=4A7AB5)
+![Bash](https://img.shields.io/badge/Bash-0a0c10?style=for-the-badge&logo=gnubash&logoColor=900000)
 ![PowerShell](https://img.shields.io/badge/PowerShell-0a0c10?style=for-the-badge&logo=powershell&logoColor=4A7AB5)
 ![C](https://img.shields.io/badge/C-0a0c10?style=for-the-badge&logo=c&logoColor=4A7AB5)
-![JavaScript](https://img.shields.io/badge/JavaScript-0a0c10?style=for-the-badge&logo=javascript&logoColor=4A7AB5)
+![JavaScript](https://img.shields.io/badge/JavaScript-0a0c10?style=for-the-badge&logo=javascript&logoColor=900000)
 ![SQL](https://img.shields.io/badge/SQL-0a0c10?style=for-the-badge&logo=postgresql&logoColor=4A7AB5)
 ![HTML5](https://img.shields.io/badge/HTML5-0a0c10?style=for-the-badge&logo=html5&logoColor=4A7AB5)
-![Git](https://img.shields.io/badge/Git-0a0c10?style=for-the-badge&logo=git&logoColor=4A7AB5)
+![Git](https://img.shields.io/badge/Git-0a0c10?style=for-the-badge&logo=git&logoColor=900000)
 ![Linux](https://img.shields.io/badge/Linux-0a0c10?style=for-the-badge&logo=linux&logoColor=4A7AB5)
 ![Windows](https://img.shields.io/badge/Windows-0a0c10?style=for-the-badge&logo=windows&logoColor=4A7AB5)
 ![Docker](https://img.shields.io/badge/Docker-0a0c10?style=for-the-badge&logo=docker&logoColor=4A7AB5)
