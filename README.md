@@ -13,7 +13,7 @@
 
 [![TryHackMe](https://img.shields.io/badge/TRYHACKME-0a0c10?style=flat-square&logo=tryhackme&logoColor=4A7AB5)](https://tryhackme.com/p/Ph0BoS)
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-0a0c10?style=flat-square&logo=linkedin&logoColor=4A7AB5)](https://linkedin.com/in/mateus-cabral-3a04b4287)
-[![HackTheBox](https://img.shields.io/badge/HACKTHEBOX-0a0c10?style=flat-square&logo=hackthebox&logoColor=4A7AB5)](https://app.hackthebox.com/profile/Ph0BoS)
+[![HackTheBox](https://img.shields.io/badge/HACKTHEBOX-0a0c10?style=flat-square&logo=hackthebox&logoColor=4A7AB5)](https://app.hackthebox.com/profile/Ph0BoSS)
 
 </div>
 
