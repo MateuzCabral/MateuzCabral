@@ -109,7 +109,7 @@ Trabalho ativamente com enumeração, exploração, escalada de privilégios e e
 
 <div align="center">
 
-<img src="image.png"/>
+<img src="image-2.png"/>
 </div>
 
 <br>
