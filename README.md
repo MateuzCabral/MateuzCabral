@@ -95,6 +95,7 @@ Trabalho ativamente com enumeração, exploração, escalada de privilégios e e
 | | Course / Certification | Status |
 |:---:|:---|:---:|
 | ◈ | DCPT — Desec Certified Penetration Tester | ✅ Complete |
+| ◈ | CRTA — Certified Red Team Analyst | ✅ Complete |
 | ◈ | Pentest Experience V2 - Desec Security | ✅ Complete |
 | ◈ | Novo Pentest Profissional - Desec Security | ✅ Complete |
 | ◈ | Ethical Hacker - Cisco Networking Academy | ✅ Complete |
@@ -109,7 +110,7 @@ Trabalho ativamente com enumeração, exploração, escalada de privilégios e e
 
 <div align="center">
 
-<img src="image.png"/>
+<img src="image-2.png"/>
 </div>
 
 <br>
